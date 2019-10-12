@@ -1,0 +1,11 @@
+D:\workspace\GameApp\GameApp\bin\Debug\GameApp.exe.config
+D:\workspace\GameApp\GameApp\bin\Debug\GameApp.exe
+D:\workspace\GameApp\GameApp\bin\Debug\GameApp.pdb
+D:\workspace\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+D:\workspace\GameApp\GameApp\obj\Debug\GameApp.exe
+D:\workspace\GameApp\GameApp\obj\Debug\GameApp.pdb
+D:\workspace\GameApp\GameApp\bin\Debug\sfml-audio.dll
+D:\workspace\GameApp\GameApp\bin\Debug\sfml-graphics.dll
+D:\workspace\GameApp\GameApp\bin\Debug\sfml-system.dll
+D:\workspace\GameApp\GameApp\bin\Debug\sfml-window.dll
+D:\workspace\GameApp\GameApp\obj\Debug\GameApp.csproj.CopyComplete
